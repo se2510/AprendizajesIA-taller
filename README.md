@@ -6,7 +6,7 @@
 # Taller: Tipos de aprendizaje: IA
 
 
-Este taller, realizado en la semana de talleres temáticos enfocados a la inteligencia artificial, se vieron ejemplos y conceptos sobre lo básico de los aprendizajes en la inteligencia artifical, como los supervisados y no supervisados.
+Este taller, realizado en la semana de talleres temáticos enfocados a la inteligencia artificial, se vieron ejemplos y conceptos sobre lo básico de los aprendizajes en la inteligencia artificial: Supervisados y no supervisados.
 
   <div align="left">
     <img src="https://scontent.fmex27-1.fna.fbcdn.net/v/t39.30808-6/434654726_808033494703521_1824408893455243373_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeHGjuWenv2uYNjQ4vwHaYWcGM_F1P77RvEYz8XU_vtG8T0cL8EXzNRIO6pirirWXMglm3IrZW_TKg5v0XgwokbI&_nc_ohc=1b-BsKVKeggAb6wJqK5&_nc_ht=scontent.fmex27-1.fna&oh=00_AfAnG4z0QbPTDVZ8vUumwXEimNNXZJbWMsxjr8fLNBRbxw&oe=661D5663" width="48%" />
